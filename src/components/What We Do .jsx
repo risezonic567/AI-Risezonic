@@ -51,9 +51,7 @@ const WhatWeDo = () => {
           data-aos="fade-up"
           data-aos-delay="200"
         >
-          We offer practical, hands-on generative AI training across a wide
-          range of disciplines—because AI isn’t just for coders; it’s for
-          creators, engineers, analysts, and everyone in between.
+          We offer practical, hands-on Generative AI training across a wide range of disciplines because AI isn't just for coders-it's for creators, engineers, analysts, and everyone in between.
         </p>
 
         {/* Features Grid */}
@@ -62,15 +60,13 @@ const WhatWeDo = () => {
           <div className="space-y-6" data-aos="fade-right" data-aos-delay="300">
             <h3 className="text-2xl font-semibold text-white flex items-center gap-2">
               <FaGraduationCap className="text-pink-300" />
-              Generative AI Training for All Domains
-
+             Generate AI training Across all domains.
             </h3>
             <ul className="space-y-4 text-white text-[1rem] leading-relaxed ">
               <li className="flex items-start gap-3 bg-white/10 p-2 px-4 rounded-lg border-white/10 backdrop-blur-lg border-2 border-white">
                 <FaDesktop className="text-pink-300 mt-1 text-xl" />
                 <span>
-                  <strong>Computer Science</strong> – LLMs, RAG, LangChain,
-                  Prompt Engineering
+                  <strong>Computer Science</strong> – LLM’s ,RAG,Langchain and  Prompt Engineering.
                 </span>
               </li>
               <li className="flex items-start gap-3  bg-white/10 p-2 px-4 rounded-lg border-white/10 backdrop-blur-lg border-2 border-white">
@@ -90,8 +86,7 @@ const WhatWeDo = () => {
               <li className="flex items-start gap-3  bg-white/10 p-2 px-4 rounded-lg border-white/10 backdrop-blur-lg border-2 border-white">
                 <FaTools className="text-pink-300 mt-1 text-xl" />
                 <span>
-                  <strong>Non-tech Streams</strong> – Content, finance, design,
-                  law, HR — all AI-enhanced
+                  <strong>Non-tech Streams</strong> – Content, Finance, Design, Law, and HR - All AI-Enhanced
                 </span>
               </li>
             </ul>
@@ -112,10 +107,7 @@ const WhatWeDo = () => {
               </strong>
             </p>
             <p className="text-gray-200 leading-relaxed">
-              We don’t just teach tools — we teach <em>how AI thinks</em>, and
-              how to use it meaningfully. Our programs combine coding,
-              real-world problems, and design thinking to help you innovate in
-              your own field.
+              We don’t just teach tools-we teach how AI thinks and how to use it meaningfully.
             </p>
           </div>
         </div>

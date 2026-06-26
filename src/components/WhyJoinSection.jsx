@@ -113,12 +113,8 @@ const WhyJoinSection = () => {
             “We don’t offer only programs; we provide opportunities.”
           </p>
           <p className="mt-4">
-            If you want to work for some of the best companies in the tech
-            space, start your own business, or become a certified AI educator to
-            help inspire the next generation,{" "}
-            <span className="text-white font-bold">AI.Risezonic</span> can
-            provide you with the knowledge, confidence, and connections to
-            achieve your ambitions.
+            Whether you aspire to work for leading technology companies, start your own business, or become a certified AI educator who inspires the next generation,{" "}
+            <span className="text-white font-bold">AI.Risezonic</span> can help you with the knowledge, confidence, and connections needed to achieve your goals
           </p>
         </div>
       </div>

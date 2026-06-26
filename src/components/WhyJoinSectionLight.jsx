@@ -62,17 +62,14 @@ const WhyJoinSectionLight = () => {
             className="mt-4 text-lg text-gray-700 max-w-3xl mx-auto"
           >
             At <span className="text-pink-600 font-bold">AI.Risezonic</span>, we
-            don't believe in lecture-style boredom. We want you to learn in a
-            hands-on way, work with real-world projects, and be future-ready
-            with your skills.
+            don't believe in lecture-style learning. We want you to gain hands-on practical learning that helps you work on real-world projects and become future-ready.
           </p>
           <p
             data-aos="fade-up"
             data-aos-delay="200"
             className="mt-2 text-gray-500"
           >
-            “Whatever you are, a student, a professional, or an educator, our
-            AI-based workshops and bootcamps are structured to help you{" "}
+            Whether you're a student, professional, or educator, our AI-powered workshops and bootcamps are designed to help you{" "}
             <span className="text-gray-800 font-bold">
               learn, build, and transform.
             </span>

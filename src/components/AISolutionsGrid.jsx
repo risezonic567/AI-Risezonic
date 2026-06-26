@@ -16,9 +16,9 @@ import {
 const aiSolutions = [
 {
     icon: <FaRobot className="text-white text-2xl" />,
-    title: "Creation of Custom ChatGPT with AI",
+    title: "Creation of custom Chatbot with AI",
     points: [
-      "Create custom prompt flows that follow your business's logic or knowledge.",
+      "Create custom prompts that align with your business’s Goals and data",
       "Get instant and consistent replies anytime.",
       "Reduce manual effort to manage FAQs.",
     ],
